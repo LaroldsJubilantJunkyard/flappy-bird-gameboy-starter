@@ -5,7 +5,4 @@
 #include "States/CoreGameLoop.h"
 #include "States/GameplayEnd.h"
 
-
-void main(void){
-
-}
+void main(void){}
